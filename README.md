@@ -1,0 +1,4 @@
+# README: Stock Alerts
+
+Mon, 28 Mar 2022 13:38:06 MDT|AAPL|175.18|>=175.00
+
